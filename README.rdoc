@@ -1,6 +1,6 @@
 == README
 
-We will use this repository for the exercises ofRuby For Web Designers Class.
+We will use this repository for the exercises of Ruby For Web Designers Class (www.railsforwebdesigners.co.uk).
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
