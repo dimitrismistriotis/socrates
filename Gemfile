@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+#
+# Please add a description (one line max) after each gem.
+#
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.6'
