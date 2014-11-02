@@ -1,5 +1,7 @@
 == README
 
+We will use this repository for the exercises ofRuby For Web Designers Class.
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
