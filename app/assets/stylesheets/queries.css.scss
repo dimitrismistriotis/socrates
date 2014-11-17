@@ -1,3 +1,77 @@
 // Place all the styles related to the Queries controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+.container {
+  margin: 0 auto;
+  width: 760px;
+
+  h1 {
+    text-align: center;
+    color:#F62459;
+  }
+
+  table {
+    width: 100%;
+    background: #F62459;
+    text-align: center;
+  }
+
+  a {
+    margin: 0 auto;
+    max-width: 150px;
+    width: 70%;
+    display: block;
+    text-align: center;
+    text-transform: uppercase;
+    color: #000;
+    text-decoration: none;
+    background: #fff;
+    padding: 20px;
+    font-weight: bold;
+    border-bottom: 3px solid #BDC3C7;
+
+    &:hover {
+      background: #f62459;
+    }
+  }
+
+  .field {
+    display: block;
+    text-align: left;
+    margin: 20px 0;
+
+    label {
+      color: #2C3E50;
+      font-size: 1.2em;
+      width: 100%;
+      text-align: left;
+    }
+
+    input, textarea {
+      width:100%;
+      padding: 10px;
+    }
+
+    textarea {
+      height: 150px;
+    }
+  }
+  .actions input {
+    background: #1BA39C;
+    padding: 20px;
+    color: #fff;
+    width:190px;
+    margin: 0 auto;
+    float:none;
+    display: block;
+    border: none;
+    border-bottom: 4px solid #87D37C;
+    text-transform: uppercase;
+    font-weight: bold;
+
+    &:hover {
+      background: #87D37C;
+      cursor:pointer;
+    }
+  }
+}
